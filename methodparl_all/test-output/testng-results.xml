@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-14T14:25:49 IST" name="Suite" finished-at="2022-12-14T14:27:44 IST" duration-ms="115520">
+    <groups>
+    </groups>
+    <test started-at="2022-12-14T14:25:49 IST" name="Test" finished-at="2022-12-14T14:26:13 IST" duration-ms="23866">
+      <class name="newmethod_all.Newmethods">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:newmethod_all.Newmethods@6ac13091]" started-at="2022-12-14T14:25:49 IST" name="beforeTest" finished-at="2022-12-14T14:25:51 IST" duration-ms="1793" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Pair()[pri:0, instance:newmethod_all.Newmethods@6ac13091]" started-at="2022-12-14T14:25:51 IST" name="Pair" finished-at="2022-12-14T14:26:13 IST" duration-ms="22040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pair -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:newmethod_all.Newmethods@6ac13091]" started-at="2022-12-14T14:26:13 IST" name="afterTest" finished-at="2022-12-14T14:26:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- newmethod_all.Newmethods -->
+    </test> <!-- Test -->
+    <test started-at="2022-12-14T14:25:49 IST" name="Test1" finished-at="2022-12-14T14:27:44 IST" duration-ms="115520">
+      <class name="newmethod_all.Newmethods">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:newmethod_all.Newmethods@1b1473ab]" started-at="2022-12-14T14:25:49 IST" name="beforeTest" finished-at="2022-12-14T14:27:18 IST" duration-ms="88797" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FireFox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Pair()[pri:0, instance:newmethod_all.Newmethods@1b1473ab]" started-at="2022-12-14T14:27:18 IST" name="Pair" finished-at="2022-12-14T14:27:44 IST" duration-ms="26714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pair -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:newmethod_all.Newmethods@1b1473ab]" started-at="2022-12-14T14:27:44 IST" name="afterTest" finished-at="2022-12-14T14:27:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- newmethod_all.Newmethods -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
